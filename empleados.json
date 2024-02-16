@@ -1,0 +1,24 @@
+{
+    "empleados" : [
+        {
+            "id" : 1,
+            "nombre": "luca",
+            "puesto": "programador web"
+        },
+        {
+            "id" : 2,
+            "nombre": "pris",
+            "puesto": "programadora web"
+        },
+        {
+            "id" : 3,
+            "nombre": "rita",
+            "puesto": "la mascota web"
+        },
+        {
+            "id" : 4,
+            "nombre": "el mortal",
+            "puesto": "gato gei"
+        }
+    ]
+}
